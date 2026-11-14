@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img src="https://github.com/celstfi4l.png?size=200" width="120" alt="Nick" />
+<a href="https://github.com/celstfi4l">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9E9E9E&center=true&vCenter=true&width=435&lines=Aprendendo+Python;Saindo+do+Portugol;Estudando+privacidade+digital;Usu%C3%A1rio+de+CachyOS" alt="Typing SVG" />
+</a>
 
 <br/>
 
