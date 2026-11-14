@@ -1,6 +1,6 @@
 <div align="center">
 
-<sub>Aviso: este perfil foi pensado para o modo escuro do GitHub e pode ficar estranho no modo claro.</sub>
+<sub>Este perfil foi pensado para o modo escuro do GitHub e pode ficar estranho no modo claro.</sub>
 
 </div>
 
