@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:555555&height=180&section=header&text=Nick&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,100:d9d9d9&height=180&section=header&text=Nick&fontSize=60&fontColor=1a1a1a&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -42,8 +42,8 @@ Pode abrir uma issue ou me chamar por aqui. Ainda tenho pouca coisa publicada, m
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=celstfi4l&label=Visualizações&color=555555&style=for-the-badge" alt="Visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=celstfi4l&label=Visualizações&color=d9d9d9&labelColor=2b2b2b&style=for-the-badge" alt="Visualizações do perfil" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:555555,100:000000&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:d9d9d9,100:f5f5f5&height=100&section=footer" width="100%" />
