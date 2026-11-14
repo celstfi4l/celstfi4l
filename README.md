@@ -1,3 +1,9 @@
+<div align="center">
+
+<sub>Aviso: este perfil foi pensado para o modo escuro do GitHub e pode ficar estranho no modo claro.</sub>
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5f5f5,100:d9d9d9&height=180&section=header&text=Nick&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 <div align="center">
