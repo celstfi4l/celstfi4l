@@ -42,7 +42,7 @@ Pode abrir uma issue ou me chamar por aqui. Ainda tenho pouca coisa publicada, m
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=celstfi4l&label=Visualizações&color=d9d9d9&labelColor=2b2b2b&style=for-the-badge" alt="Visualizações do perfil" />
+<img src="https://komarev.com/ghpvc/?username=celstfi4l&label=Visualizações&color=d9d9d9&labelColor=100:d9d9d9&height=180&style=for-the-badge" alt="Visualizações do perfil" />
 
 </div>
 
